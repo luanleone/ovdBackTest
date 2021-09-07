@@ -1,0 +1,15 @@
+com\ovd\projetoteste\domain\Permanencia.class
+com\ovd\projetoteste\domain\Veiculo.class
+com\ovd\projetoteste\config\ObjectMapperProvider.class
+com\ovd\projetoteste\persistence\JpaDao.class
+com\ovd\projetoteste\dto\VeiculoDto.class
+com\ovd\projetoteste\service\VeiculoService.class
+com\ovd\projetoteste\util\ContextFilter.class
+com\ovd\projetoteste\config\Secured.class
+com\ovd\projetoteste\dto\PermanenciaDto.class
+com\ovd\projetoteste\config\ApplicationConfig.class
+com\ovd\projetoteste\persistence\JpaVeiculoDao.class
+com\ovd\projetoteste\persistence\JpaPermanenciaDao.class
+com\ovd\projetoteste\api\VeiculoApi.class
+com\ovd\projetoteste\service\PermanenciaService.class
+com\ovd\projetoteste\config\CORSResponseFilter.class
